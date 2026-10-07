@@ -1,4 +1,4 @@
-# Seng Garcia — Portfolio
+# Nathaniel Garcia — Portfolio
 
 Editable static resume portfolio with smooth reveal animations, responsive layout, and persistent light/dark mode.
 
